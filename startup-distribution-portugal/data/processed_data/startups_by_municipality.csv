@@ -1,0 +1,165 @@
+﻿HQ city,HQ state,startup_count,funded_count,grant_count,vc_count,total_funding_eur_m,median_funding_eur_m,avg_startup_age,sector_diversity,top_industry,pct_operational,pct_closed,metro_area,funded_ratio,grant_ratio,vc_ratio
+Abrantes,Santarém,1,1,0,1,0.31,0.31,8.0,1,marketing,100.0,0.0,Other,100.0,0.0,100.0
+Albufeira,Faro,4,0,0,0,0.0,,7.0,4,food,75.0,25.0,Other,0.0,0.0,0.0
+Alcanena,Santarém,1,0,0,0,0.0,,4.0,1,fashion,100.0,0.0,Other,0.0,0.0,0.0
+Alcobaça,Leiria,5,1,3,0,0.05,0.05,14.8,3,food,80.0,0.0,Other,20.0,60.0,0.0
+Alcácer do Sal,Setúbal,4,0,0,1,0.0,,12.0,3,enterprise software,75.0,25.0,Other,0.0,0.0,25.0
+Alenquer,Lisboa,2,1,2,1,31.67,31.67,6.5,1,health,50.0,50.0,Other,50.0,100.0,50.0
+Aljustrel,Beja,1,0,0,0,0.0,,8.0,1,food,0.0,0.0,Other,0.0,0.0,0.0
+Almada,Setúbal,40,8,4,5,19.01,0.38,10.7,17,enterprise software,77.5,12.5,Lisboa Metro,20.0,10.0,12.5
+Alvaiázere,Leiria,2,1,0,1,2.9,2.9,9.0,1,music,100.0,0.0,Other,50.0,0.0,50.0
+Amadora,Lisboa,21,3,2,1,0.34,0.11,12.5,11,health,66.7,4.8,Lisboa Metro,14.3,9.5,4.8
+Amarante,Porto,4,1,1,1,9.7,9.7,9.0,3,fintech,100.0,0.0,Other,25.0,25.0,25.0
+Amares,Braga,1,0,0,0,0.0,,10.0,1,legal,100.0,0.0,Other,0.0,0.0,0.0
+Anadia,Aveiro,4,0,0,0,0.0,,4.7,3,transportation,75.0,25.0,Other,0.0,0.0,0.0
+Angra do Heroísmo,Açores,7,2,1,2,1.05,0.52,6.9,5,energy,100.0,0.0,Other,28.6,14.3,28.6
+Ansião,Leiria,1,1,1,1,1.5,1.5,4.0,1,fintech,100.0,0.0,Other,100.0,100.0,100.0
+Arcos de Valdevez,Viana do Castelo,4,1,1,0,0.17,0.17,4.5,2,legal,75.0,0.0,Other,25.0,25.0,0.0
+Arouca,Aveiro,6,1,0,1,0.11,0.11,9.2,3,security,83.3,0.0,Porto Metro,16.7,0.0,16.7
+Arraiolos,Évora,1,0,0,0,0.0,,7.0,1,enterprise software,100.0,0.0,Other,0.0,0.0,0.0
+Arruda dos Vinhos,Lisboa,2,0,1,0,0.0,,14.0,2,fintech,100.0,0.0,Other,0.0,50.0,0.0
+Aveiro,Aveiro,50,10,8,8,12.61,0.1,11.8,17,health,94.0,0.0,Other,20.0,16.0,16.0
+Azambuja,Lisboa,4,2,2,1,10.1,5.05,24.0,3,media,100.0,0.0,Other,50.0,50.0,25.0
+Barcelos,Braga,10,4,2,3,0.2,0.05,8.8,6,health,80.0,0.0,Other,40.0,20.0,30.0
+Barreiro,Setúbal,7,1,2,0,0.05,0.05,10.6,7,chemicals,71.4,28.6,Lisboa Metro,14.3,28.6,0.0
+Batalha,Leiria,4,0,0,0,0.0,,16.8,3,sports,50.0,0.0,Other,0.0,0.0,0.0
+Beja,Beja,3,1,0,0,0.06,0.06,4.5,2,travel,66.7,0.0,Other,33.3,0.0,0.0
+Benavente,Santarém,4,1,0,2,0.4,0.4,15.8,3,fintech,100.0,0.0,Other,25.0,0.0,50.0
+Braga,Braga,138,37,21,43,108.5,1.16,9.2,26,health,86.2,5.1,Other,26.8,15.2,31.2
+Bragança,Bragança,7,2,2,1,0.11,0.06,5.3,4,health,85.7,0.0,Other,28.6,28.6,14.3
+Cabeceiras de Basto,Braga,1,0,0,0,0.0,,24.0,1,food,0.0,0.0,Other,0.0,0.0,0.0
+Cadaval,Lisboa,2,2,2,0,3.01,1.5,2.5,2,education,100.0,0.0,Other,100.0,100.0,0.0
+Caldas da Rainha,Leiria,9,2,0,2,1.05,0.52,8.0,6,enterprise software,100.0,0.0,Other,22.2,0.0,22.2
+Cantanhede,Coimbra,26,7,6,9,29.22,1.53,15.0,3,health,76.9,7.7,Other,26.9,23.1,34.6
+Cartaxo,Santarém,1,1,1,0,0.17,0.17,,0,,100.0,0.0,Other,100.0,100.0,0.0
+Cascais,Lisboa,64,6,4,7,2.36,0.09,9.7,20,energy,78.1,12.5,Lisboa Metro,9.4,6.2,10.9
+Castelo Branco,Castelo Branco,9,1,1,1,0.3,0.3,8.0,5,energy,77.8,11.1,Other,11.1,11.1,11.1
+Castro Daire,Viseu,2,0,0,0,0.0,,,1,home living,100.0,0.0,Other,0.0,0.0,0.0
+Castro Marim,Faro,1,0,0,0,0.0,,8.0,1,energy,100.0,0.0,Other,0.0,0.0,0.0
+Chaves,Vila Real,3,1,1,0,0.05,0.05,6.0,3,health,66.7,0.0,Other,33.3,33.3,0.0
+Coimbra,Coimbra,137,37,37,36,401.66,0.15,10.8,24,health,86.9,2.9,Other,27.0,27.0,26.3
+Constância,Santarém,1,0,0,0,0.0,,24.0,1,marketing,100.0,0.0,Other,0.0,0.0,0.0
+Covilhã,Castelo Branco,22,5,6,3,13.95,1.0,7.7,10,health,86.4,9.1,Other,22.7,27.3,13.6
+Câmara de Lobos,Madeira,2,1,0,1,25.16,25.16,4.0,1,fintech,100.0,0.0,Other,50.0,0.0,50.0
+Espinho,Aveiro,7,1,0,0,0.05,0.05,5.2,5,health,85.7,0.0,Porto Metro,14.3,0.0,0.0
+Esposende,Braga,9,2,1,1,2.33,1.16,7.7,7,fashion,77.8,11.1,Other,22.2,11.1,11.1
+Estarreja,Aveiro,1,0,0,0,0.0,,5.0,1,marketing,100.0,0.0,Other,0.0,0.0,0.0
+Estremoz,Évora,1,0,0,0,0.0,,3.0,1,food,100.0,0.0,Other,0.0,0.0,0.0
+Fafe,Braga,2,0,0,0,0.0,,1.5,2,enterprise software,100.0,0.0,Other,0.0,0.0,0.0
+Faro,Faro,22,2,1,4,0.4,0.2,9.8,12,food,86.4,4.5,Other,9.1,4.5,18.2
+Felgueiras,Porto,3,1,0,1,0.68,0.68,11.3,1,fashion,100.0,0.0,Other,33.3,0.0,33.3
+Figueira da Foz,Coimbra,10,0,1,1,0.0,,9.8,5,energy,100.0,0.0,Other,0.0,10.0,10.0
+Figueiró dos Vinhos,Leiria,2,0,1,1,0.0,,7.5,2,food,100.0,0.0,Other,0.0,50.0,50.0
+Funchal,Madeira,46,3,6,4,1.36,0.23,9.4,19,enterprise software,89.1,4.3,Other,6.5,13.0,8.7
+Fundão,Castelo Branco,10,4,2,3,10.94,0.16,6.7,5,food,90.0,10.0,Other,40.0,20.0,30.0
+Gondomar,Porto,12,0,0,1,0.0,,14.4,8,home living,75.0,16.7,Porto Metro,0.0,0.0,8.3
+Guarda,Guarda,4,0,0,0,0.0,,3.0,3,real estate,100.0,0.0,Other,0.0,0.0,0.0
+Guimarães,Braga,36,5,6,3,7.57,0.16,10.8,13,health,83.3,0.0,Other,13.9,16.7,8.3
+Horta,Açores,1,0,0,0,0.0,,2.0,1,enterprise software,100.0,0.0,Other,0.0,0.0,0.0
+Lagoa,Açores,3,1,0,2,0.18,0.18,6.7,2,gaming,100.0,0.0,Other,33.3,0.0,66.7
+Lagoa,Faro,5,1,0,1,0.09,0.09,5.8,4,fintech,100.0,0.0,Other,20.0,0.0,20.0
+Lagos,Faro,19,0,0,0,0.0,,2.9,8,travel,73.7,15.8,Other,0.0,0.0,0.0
+Lamego,Viseu,3,2,1,1,9.19,4.6,18.0,2,travel,100.0,0.0,Other,66.7,33.3,33.3
+Leiria,Leiria,50,7,5,5,11.72,0.55,9.4,19,enterprise software,96.0,2.0,Other,14.0,10.0,10.0
+Lisboa,Lisboa,1417,245,145,281,1170.38,0.8,8.3,30,enterprise software,76.9,15.9,Lisboa Metro,17.3,10.2,19.8
+Loulé,Faro,15,4,2,3,2.02,0.1,7.5,9,health,93.3,0.0,Other,26.7,13.3,20.0
+Loures,Lisboa,23,0,0,3,0.0,,10.4,12,food,78.3,13.0,Lisboa Metro,0.0,0.0,13.0
+Lourinhã,Lisboa,2,0,0,0,0.0,,2.0,0,,100.0,0.0,Other,0.0,0.0,0.0
+Lousada,Porto,3,0,0,0,0.0,,7.0,2,hosting,33.3,33.3,Other,0.0,0.0,0.0
+Machico,Madeira,1,1,0,1,0.29,0.29,9.0,1,food,100.0,0.0,Other,100.0,0.0,100.0
+Mafra,Lisboa,11,2,2,1,0.61,0.3,6.9,8,energy,72.7,27.3,Lisboa Metro,18.2,18.2,9.1
+Maia,Porto,57,8,3,9,17.73,1.16,14.1,17,energy,70.2,7.0,Porto Metro,14.0,5.3,15.8
+Mangualde,Viseu,2,1,1,0,45.0,45.0,2.0,1,energy,50.0,0.0,Other,50.0,50.0,0.0
+Marco de Canaveses,Porto,2,0,0,0,0.0,,23.0,2,semiconductors,0.0,0.0,Other,0.0,0.0,0.0
+Marinha Grande,Leiria,9,0,0,0,0.0,,11.0,8,home living,77.8,22.2,Other,0.0,0.0,0.0
+Matosinhos,Porto,113,23,14,21,44.45,0.3,11.1,21,health,67.3,16.8,Porto Metro,20.4,12.4,18.6
+Mação,Santarém,1,0,0,0,0.0,,,1,health,100.0,0.0,Other,0.0,0.0,0.0
+Mirandela,Bragança,1,1,1,1,4.6,4.6,7.0,1,energy,100.0,0.0,Other,100.0,100.0,100.0
+Moita,Setúbal,2,0,0,0,0.0,,7.5,2,fashion,100.0,0.0,Lisboa Metro,0.0,0.0,0.0
+Monchique,Faro,3,0,0,0,0.0,,8.3,2,energy,100.0,0.0,Other,0.0,0.0,0.0
+Montemor-o-Novo,Évora,5,1,0,1,1.41,1.41,4.0,4,transportation,100.0,0.0,Other,20.0,0.0,20.0
+Montijo,Setúbal,1,0,0,0,0.0,,8.0,1,food,100.0,0.0,Lisboa Metro,0.0,0.0,0.0
+Monção,Viana do Castelo,1,0,0,0,0.0,,19.0,0,,0.0,0.0,Other,0.0,0.0,0.0
+Mortágua,Viseu,1,0,0,0,0.0,,8.0,1,security,100.0,0.0,Other,0.0,0.0,0.0
+Murtosa,Aveiro,1,1,1,0,0.05,0.05,24.0,1,fashion,100.0,0.0,Other,100.0,100.0,0.0
+Mértola,Beja,2,0,0,0,0.0,,1.0,2,enterprise software,100.0,0.0,Other,0.0,0.0,0.0
+Nazaré,Leiria,3,1,0,1,19.71,19.71,7.7,1,food,100.0,0.0,Other,33.3,0.0,33.3
+Nelas,Viseu,3,2,1,1,0.49,0.24,16.7,3,travel,66.7,0.0,Other,66.7,33.3,33.3
+Odivelas,Lisboa,13,2,2,2,1.99,1.0,12.2,11,health,84.6,7.7,Lisboa Metro,15.4,15.4,15.4
+Oeiras,Lisboa,102,22,9,25,43.63,0.64,13.8,21,health,73.5,13.7,Lisboa Metro,21.6,8.8,24.5
+Oleiros,Castelo Branco,2,0,0,0,0.0,,11.5,1,security,100.0,0.0,Other,0.0,0.0,0.0
+Olhão,Faro,5,2,2,1,0.24,0.12,12.5,4,legal,80.0,0.0,Other,40.0,40.0,20.0
+Oliveira de Azeméis,Aveiro,3,1,1,0,0.2,0.2,15.7,3,food,66.7,0.0,Porto Metro,33.3,33.3,0.0
+Oliveira de Frades,Viseu,1,0,0,0,0.0,,35.0,1,energy,100.0,0.0,Other,0.0,0.0,0.0
+Oliveira do Hospital,Coimbra,4,1,1,1,1.15,1.15,9.0,3,energy,75.0,0.0,Other,25.0,25.0,25.0
+Ourém,Santarém,6,0,0,0,0.0,,3.3,2,health,83.3,16.7,Other,0.0,0.0,0.0
+Ovar,Aveiro,2,0,0,0,0.0,,7.0,2,semiconductors,50.0,0.0,Other,0.0,0.0,0.0
+Palmela,Setúbal,6,0,0,0,0.0,,13.2,5,enterprise software,66.7,16.7,Lisboa Metro,0.0,0.0,0.0
+Pampilhosa da Serra,Coimbra,1,1,1,0,0.07,0.07,4.0,1,space,100.0,0.0,Other,100.0,100.0,0.0
+Paredes,Porto,11,1,2,0,0.04,0.04,17.2,5,home living,72.7,9.1,Porto Metro,9.1,18.2,0.0
+Paços de Ferreira,Porto,1,0,0,0,0.0,,18.0,1,education,100.0,0.0,Other,0.0,0.0,0.0
+Penacova,Coimbra,1,0,0,0,0.0,,,1,travel,100.0,0.0,Other,0.0,0.0,0.0
+Penafiel,Porto,2,0,0,0,0.0,,5.5,2,enterprise software,50.0,50.0,Other,0.0,0.0,0.0
+Penela,Coimbra,7,1,2,1,0.9,0.9,6.2,4,health,71.4,14.3,Other,14.3,28.6,14.3
+Peniche,Leiria,9,2,0,2,16.05,8.02,9.9,5,jobs recruitment,88.9,11.1,Other,22.2,0.0,22.2
+Pinhel,Guarda,4,2,0,2,21.14,10.57,10.2,4,fintech,50.0,0.0,Other,50.0,0.0,50.0
+Pombal,Leiria,3,0,1,0,0.0,,16.0,2,energy,66.7,0.0,Other,0.0,33.3,0.0
+Ponta Delgada,Açores,16,0,0,0,0.0,,8.0,8,travel,100.0,0.0,Other,0.0,0.0,0.0
+Ponta do Sol,Madeira,2,0,0,0,0.0,,9.5,2,marketing,100.0,0.0,Other,0.0,0.0,0.0
+Ponte da Barca,Viana do Castelo,3,0,0,0,0.0,,9.5,3,travel,100.0,0.0,Other,0.0,0.0,0.0
+Ponte de Lima,Viana do Castelo,1,0,0,0,0.0,,,1,fashion,100.0,0.0,Other,0.0,0.0,0.0
+Portalegre,Portalegre,2,1,1,0,0.06,0.06,8.0,2,energy,50.0,0.0,Other,50.0,50.0,0.0
+Portimão,Faro,5,0,0,0,0.0,,14.2,3,enterprise software,80.0,0.0,Other,0.0,0.0,0.0
+Porto,Porto,619,88,56,94,255.56,0.68,8.9,27,health,78.0,11.8,Porto Metro,14.2,9.0,15.2
+Porto Moniz,Madeira,1,0,0,0,0.0,,11.0,1,fashion,100.0,0.0,Other,0.0,0.0,0.0
+Porto de Mós,Leiria,2,0,0,0,0.0,,9.5,1,marketing,100.0,0.0,Other,0.0,0.0,0.0
+Póvoa de Lanhoso,Braga,2,0,0,0,0.0,,22.0,1,energy,50.0,0.0,Other,0.0,0.0,0.0
+Póvoa de Varzim,Porto,10,1,0,1,0.65,0.65,13.2,7,real estate,70.0,10.0,Porto Metro,10.0,0.0,10.0
+Ribeira Brava,Madeira,2,0,0,0,0.0,,5.5,2,food,100.0,0.0,Other,0.0,0.0,0.0
+Ribeira Grande,Açores,4,0,0,0,0.0,,5.0,3,fintech,100.0,0.0,Other,0.0,0.0,0.0
+Rio Maior,Santarém,4,2,0,2,0.15,0.08,7.8,3,gaming,75.0,0.0,Other,50.0,0.0,50.0
+Sabugal,Guarda,1,0,0,0,0.0,,29.0,1,real estate,0.0,0.0,Other,0.0,0.0,0.0
+Salvaterra de Magos,Santarém,1,0,1,0,0.0,,5.0,1,food,100.0,0.0,Other,0.0,100.0,0.0
+Santa Comba Dão,Viseu,1,0,0,0,0.0,,3.0,1,enterprise software,100.0,0.0,Other,0.0,0.0,0.0
+Santa Cruz,Madeira,2,0,0,0,0.0,,15.0,2,fintech,100.0,0.0,Other,0.0,0.0,0.0
+Santa Maria da Feira,Aveiro,19,1,0,2,0.22,0.22,12.5,12,health,73.7,0.0,Porto Metro,5.3,0.0,10.5
+Santarém,Santarém,8,3,1,3,5.84,0.43,9.0,6,food,100.0,0.0,Other,37.5,12.5,37.5
+Santiago do Cacém,Setúbal,2,0,0,0,0.0,,13.0,2,telecom,100.0,0.0,Other,0.0,0.0,0.0
+Santo Tirso,Porto,11,0,0,0,0.0,,13.3,9,marketing,72.7,18.2,Porto Metro,0.0,0.0,0.0
+Seia,Guarda,2,0,0,1,0.0,,5.5,2,travel,100.0,0.0,Other,0.0,0.0,50.0
+Seixal,Setúbal,8,1,0,1,0.06,0.06,9.8,6,fintech,50.0,37.5,Lisboa Metro,12.5,0.0,12.5
+Serpa,Beja,2,1,1,1,0.7,0.7,12.0,2,travel,100.0,0.0,Other,50.0,50.0,50.0
+Sertã,Castelo Branco,1,0,0,0,0.0,,7.0,1,food,100.0,0.0,Other,0.0,0.0,0.0
+Sesimbra,Setúbal,2,0,0,0,0.0,,9.5,2,event tech,50.0,50.0,Lisboa Metro,0.0,0.0,0.0
+Setúbal,Setúbal,12,2,1,1,1.83,0.92,9.4,9,transportation,75.0,16.7,Lisboa Metro,16.7,8.3,8.3
+Sever do Vouga,Aveiro,2,2,2,1,5.81,2.9,6.5,2,chemicals,100.0,0.0,Other,100.0,100.0,50.0
+Silves,Faro,12,1,1,1,0.01,0.01,8.2,8,sports,75.0,8.3,Other,8.3,8.3,8.3
+Sines,Setúbal,4,0,0,0,0.0,,6.8,3,real estate,75.0,0.0,Other,0.0,0.0,0.0
+Sintra,Lisboa,26,4,3,3,7.86,2.17,10.8,12,transportation,80.8,7.7,Lisboa Metro,15.4,11.5,11.5
+São João da Madeira,Aveiro,20,1,0,0,3.0,3.0,12.2,11,food,60.0,20.0,Porto Metro,5.0,0.0,0.0
+Tavira,Faro,1,1,1,0,0.03,0.03,26.0,1,energy,100.0,0.0,Other,100.0,100.0,0.0
+Tomar,Santarém,3,1,1,0,0.0,0.0,9.0,3,health,100.0,0.0,Other,33.3,33.3,0.0
+Tondela,Viseu,2,1,1,1,0.47,0.47,11.0,2,telecom,100.0,0.0,Other,50.0,50.0,50.0
+Torres Novas,Santarém,1,0,0,1,0.0,,11.0,1,marketing,100.0,0.0,Other,0.0,0.0,100.0
+Torres Vedras,Lisboa,25,10,9,6,107.34,0.31,10.9,14,food,80.0,8.0,Other,40.0,36.0,24.0
+Trofa,Porto,9,0,0,0,0.0,,17.1,6,fashion,66.7,22.2,Porto Metro,0.0,0.0,0.0
+Vagos,Aveiro,5,0,0,0,0.0,,17.5,3,fashion,100.0,0.0,Other,0.0,0.0,0.0
+Vale de Cambra,Aveiro,4,0,0,0,0.0,,20.2,3,energy,75.0,0.0,Porto Metro,0.0,0.0,0.0
+Valongo,Porto,10,1,1,1,1.4,1.4,14.4,7,enterprise software,100.0,0.0,Porto Metro,10.0,10.0,10.0
+Viana do Castelo,Viana do Castelo,6,2,2,2,22.95,11.48,7.2,6,energy,100.0,0.0,Other,33.3,33.3,33.3
+Vila Franca de Xira,Lisboa,3,0,1,0,0.0,,15.0,3,robotics,100.0,0.0,Lisboa Metro,0.0,33.3,0.0
+Vila Nova da Barquinha,Santarém,1,0,0,0,0.0,,,1,travel,100.0,0.0,Other,0.0,0.0,0.0
+Vila Nova de Cerveira,Viana do Castelo,1,0,0,0,0.0,,27.0,1,fashion,100.0,0.0,Other,0.0,0.0,0.0
+Vila Nova de Famalicão,Braga,16,1,1,2,0.9,0.9,13.5,9,media,87.5,0.0,Other,6.2,6.2,12.5
+Vila Nova de Gaia,Porto,75,5,0,9,2.78,0.45,10.0,21,food,77.3,10.7,Porto Metro,6.7,0.0,12.0
+Vila Pouca de Aguiar,Vila Real,1,1,1,0,0.07,0.07,18.0,1,food,100.0,0.0,Other,100.0,100.0,0.0
+Vila Real,Vila Real,5,2,1,1,2.09,1.04,9.6,5,energy,80.0,0.0,Other,40.0,20.0,20.0
+Vila Real de Santo António,Faro,3,0,0,0,0.0,,4.5,2,travel,66.7,33.3,Other,0.0,0.0,0.0
+Vila Verde,Braga,2,0,0,1,0.0,,7.0,2,home living,50.0,50.0,Other,0.0,0.0,50.0
+Vila do Bispo,Faro,1,1,1,0,5.64,5.64,12.0,1,health,100.0,0.0,Other,100.0,100.0,0.0
+Vila do Conde,Porto,15,1,1,2,59.98,59.98,10.6,6,energy,53.3,33.3,Porto Metro,6.7,6.7,13.3
+Viseu,Viseu,14,2,2,4,0.42,0.21,10.5,9,food,85.7,0.0,Other,14.3,14.3,28.6
+Águeda,Aveiro,4,0,0,0,0.0,,7.5,4,real estate,100.0,0.0,Other,0.0,0.0,0.0
+Évora,Évora,30,7,3,6,6.39,0.22,7.9,11,health,73.3,20.0,Other,23.3,10.0,20.0
+Ílhavo,Aveiro,30,7,12,6,14.91,1.06,8.0,12,health,80.0,10.0,Other,23.3,40.0,20.0
+Óbidos,Leiria,11,2,0,2,1.55,0.78,10.4,8,real estate,90.9,0.0,Other,18.2,0.0,18.2
