@@ -1,4 +1,4 @@
-﻿HQ state,startup_count,funded_count,grant_count,vc_count,total_funding_eur_m,median_funding_eur_m,avg_startup_age,sector_diversity,top_industry,pct_operational,pct_closed,funded_ratio,grant_ratio,vc_ratio
+﻿hq_state,startup_count,funded_count,grant_count,vc_count,total_funding_eur_m,median_funding_eur_m,avg_startup_age,sector_diversity,top_industry,pct_operational,pct_closed,funded_ratio,grant_ratio,vc_ratio
 Aveiro,160,25,24,18,36.96,0.12,11.1,28,health,81.9,5.0,15.6,15.0,11.2
 Açores,34,3,2,4,1.23,0.29,6.7,13,travel,100.0,0.0,8.8,5.9,11.8
 Beja,8,2,1,1,0.76,0.38,7.0,4,food,75.0,0.0,25.0,12.5,12.5
