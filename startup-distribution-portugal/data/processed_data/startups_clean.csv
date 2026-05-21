@@ -1,4 +1,4 @@
-﻿Name,HQ state,HQ city,Total funding (EUR M),Launch year,Industries,Employees Range,Company status,hq_city_missing,hq_state_missing,primary_industry,metro_area,has_grant,has_vc,has_funding,startup_age
+﻿name,hq_state,hq_city,total_funding_eur_m,launch_year,industries,employees_range,company_status,hq_city_missing,hq_state_missing,primary_industry,metro_area,has_grant,has_vc,has_funding,startup_age
 RDfine,Coimbra,Coimbra,,2023.0,health,2-10,operational,0,0,health,Other,0,0,0,2.0
 BackChain,Porto,Porto,,2018.0,security,2-10,operational,0,0,security,Porto Metro,0,0,0,7.0
 Liveplace,Guarda,Sabugal,,1996.0,real estate,51-200,acquired,0,0,real estate,Other,0,0,0,29.0

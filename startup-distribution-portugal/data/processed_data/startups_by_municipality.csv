@@ -1,4 +1,4 @@
-﻿HQ city,HQ state,startup_count,funded_count,grant_count,vc_count,total_funding_eur_m,median_funding_eur_m,avg_startup_age,sector_diversity,top_industry,pct_operational,pct_closed,metro_area,funded_ratio,grant_ratio,vc_ratio
+﻿hq_city,hq_state,startup_count,funded_count,grant_count,vc_count,total_funding_eur_m,median_funding_eur_m,avg_startup_age,sector_diversity,top_industry,pct_operational,pct_closed,metro_area,funded_ratio,grant_ratio,vc_ratio
 Abrantes,Santarém,1,1,0,1,0.31,0.31,8.0,1,marketing,100.0,0.0,Other,100.0,0.0,100.0
 Albufeira,Faro,4,0,0,0,0.0,,7.0,4,food,75.0,25.0,Other,0.0,0.0,0.0
 Alcanena,Santarém,1,0,0,0,0.0,,4.0,1,fashion,100.0,0.0,Other,0.0,0.0,0.0
