@@ -122,7 +122,7 @@ PT1,Portugal Continental,PT19,Região do Centro,PT193,Região de Leiria,Leiria,P
 PT1,Portugal Continental,PT19,Região do Centro,PT193,Região de Leiria,Leiria,Porto de Mós
 PT1,Portugal Continental,PT19,Região do Centro,PT193,Região de Leiria,Leiria,Alvaiázere
 PT1,Portugal Continental,PT19,Região do Centro,PT193,Região de Leiria,Leiria,Ansião
-PT1,Portugal Continental,PT19,Região do Centro,PT193,Região de Leiria,Leiria,Castanheira de Pera
+PT1,Portugal Continental,PT19,Região do Centro,PT193,Região de Leiria,Leiria,Castanheira de Pêra
 PT1,Portugal Continental,PT19,Região do Centro,PT193,Região de Leiria,Leiria,Figueiró dos Vinhos
 PT1,Portugal Continental,PT19,Região do Centro,PT193,Região de Leiria,Leiria,Pedrógão Grande
 PT1,Portugal Continental,PT19,Região do Centro,PT194,Viseu Dão Lafões,Guarda,Aguiar da Beira
@@ -185,24 +185,24 @@ PT1,Portugal Continental,PT19,Região do Centro,PT1D2,Médio Tejo,Santarém,Toma
 PT1,Portugal Continental,PT19,Região do Centro,PT1D2,Médio Tejo,Santarém,Torres Novas
 PT1,Portugal Continental,PT19,Região do Centro,PT1D2,Médio Tejo,Castelo Branco,Vila de Rei
 PT1,Portugal Continental,PT19,Região do Centro,PT1D2,Médio Tejo,Santarém,Vila Nova da Barquinha
-PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Área Metropolitana de Lisboa,Setúbal,Alcochete
-PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Área Metropolitana de Lisboa,Setúbal,Almada
-PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Área Metropolitana de Lisboa,Lisboa,Amadora
-PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Área Metropolitana de Lisboa,Setúbal,Barreiro
-PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Área Metropolitana de Lisboa,Lisboa,Cascais
-PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Área Metropolitana de Lisboa,Lisboa,Lisboa
-PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Área Metropolitana de Lisboa,Lisboa,Loures
-PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Área Metropolitana de Lisboa,Lisboa,Mafra
-PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Área Metropolitana de Lisboa,Setúbal,Moita
-PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Área Metropolitana de Lisboa,Setúbal,Montijo
-PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Área Metropolitana de Lisboa,Lisboa,Odivelas
-PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Área Metropolitana de Lisboa,Lisboa,Oeiras
-PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Área Metropolitana de Lisboa,Setúbal,Palmela
-PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Área Metropolitana de Lisboa,Setúbal,Seixal
-PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Área Metropolitana de Lisboa,Setúbal,Sesimbra
-PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Área Metropolitana de Lisboa,Setúbal,Setúbal
-PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Área Metropolitana de Lisboa,Lisboa,Sintra
-PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Área Metropolitana de Lisboa,Lisboa,Vila Franca de Xira
+PT1,Portugal Continental,PT1B,Região de Lisboa,PT1A0,Península de Setúbal,Setúbal,Alcochete
+PT1,Portugal Continental,PT1B,Região de Lisboa,PT1A0,Península de Setúbal,Setúbal,Almada
+PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Grande Lisboa,Lisboa,Amadora
+PT1,Portugal Continental,PT1B,Região de Lisboa,PT1A0,Península de Setúbal,Setúbal,Barreiro
+PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Grande Lisboa,Lisboa,Cascais
+PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Grande Lisboa,Lisboa,Lisboa
+PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Grande Lisboa,Lisboa,Loures
+PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Grande Lisboa,Lisboa,Mafra
+PT1,Portugal Continental,PT1B,Região de Lisboa,PT1A0,Península de Setúbal,Setúbal,Moita
+PT1,Portugal Continental,PT1B,Região de Lisboa,PT1A0,Península de Setúbal,Setúbal,Montijo
+PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Grande Lisboa,Lisboa,Odivelas
+PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Grande Lisboa,Lisboa,Oeiras
+PT1,Portugal Continental,PT1B,Região de Lisboa,PT1A0,Península de Setúbal,Setúbal,Palmela
+PT1,Portugal Continental,PT1B,Região de Lisboa,PT1A0,Península de Setúbal,Setúbal,Seixal
+PT1,Portugal Continental,PT1B,Região de Lisboa,PT1A0,Península de Setúbal,Setúbal,Sesimbra
+PT1,Portugal Continental,PT1B,Região de Lisboa,PT1A0,Península de Setúbal,Setúbal,Setúbal
+PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Grande Lisboa,Lisboa,Sintra
+PT1,Portugal Continental,PT1B,Região de Lisboa,PT1B0,Grande Lisboa,Lisboa,Vila Franca de Xira
 PT1,Portugal Continental,PT1C,Alentejo,PT1D3,Lezíria do Tejo,Santarém,Almeirim
 PT1,Portugal Continental,PT1C,Alentejo,PT1D3,Lezíria do Tejo,Santarém,Alpiarça
 PT1,Portugal Continental,PT1C,Alentejo,PT1D3,Lezíria do Tejo,Lisboa,Azambuja
@@ -278,17 +278,17 @@ PT1,Portugal Continental,PT15,Algarve,PT150,Algarve,Faro,Tavira
 PT1,Portugal Continental,PT15,Algarve,PT150,Algarve,Faro,Vila do Bispo
 PT1,Portugal Continental,PT15,Algarve,PT150,Algarve,Faro,Vila Real de Santo António
 PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Angra do Heroísmo
-PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Calheta
+PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Calheta [R.A.A.]
 PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Corvo
 PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Horta
-PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Lagoa
+PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Lagoa [R.A.A.]
 PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Lajes das Flores
 PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Lajes do Pico
 PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Madalena
 PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Nordeste
 PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Ponta Delgada
 PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Povoação
-PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Praia da Vitória
+PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Vila da Praia da Vitória
 PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Ribeira Grande
 PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Santa Cruz da Graciosa
 PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Santa Cruz das Flores
@@ -296,7 +296,7 @@ PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Regi�
 PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Velas
 PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Vila do Porto
 PT2,Região Autónoma dos Açores,PT20,Região Autónoma dos Açores,PT200,Região Autónoma dos Açores,Região Autónoma dos Açores,Vila Franca do Campo
-PT3,Região Autónoma da Madeira,PT30,Região Autónoma da Madeira,PT300,Região Autónoma da Madeira,Região Autónoma da Madeira,Calheta
+PT3,Região Autónoma da Madeira,PT30,Região Autónoma da Madeira,PT300,Região Autónoma da Madeira,Região Autónoma da Madeira,Calheta [R.A.M.]
 PT3,Região Autónoma da Madeira,PT30,Região Autónoma da Madeira,PT300,Região Autónoma da Madeira,Região Autónoma da Madeira,Câmara de Lobos
 PT3,Região Autónoma da Madeira,PT30,Região Autónoma da Madeira,PT300,Região Autónoma da Madeira,Região Autónoma da Madeira,Funchal
 PT3,Região Autónoma da Madeira,PT30,Região Autónoma da Madeira,PT300,Região Autónoma da Madeira,Região Autónoma da Madeira,Machico
